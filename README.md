@@ -30,5 +30,5 @@
 ---
 
 ### GitHub Stats
-![Mircea's Stats](https://github-readme-stats.vercel.app/api?username=mirceadan17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Mircea's Stats](https://github-readme-stats.vercel.app/api?username=mirceadan17&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirceadan17&layout=compact&theme=tokyonight&hide_border=true)
