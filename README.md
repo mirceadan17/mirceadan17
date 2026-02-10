@@ -6,7 +6,7 @@
 <div align="center">
   <blockquote>
     I bridge the gap between robust web architectures and local LLM inference, <br />
-    building privacy-first AI solutions on <b>Arch Linux</b> and <b>macOS</b>.
+    building privacy-first AI solutions on <b>Linux</b>, <p> Windows</p> and <b>macOS</b>.
   </blockquote>
 </div>
 
@@ -24,7 +24,7 @@
 | :--- | :--- |
 | **🤖 AI Engineering** | LangChain, Ollama, ChromaDB, RAG Pipelines |
 | **💻 Core Development** | Python (FastAPI), React, Next.js |
-| **⚙️ DevOps** | Docker, Arch Linux, macOS, Git |
+| **⚙️ DevOps** | Docker, Linux, macOS, Git |
 
 ---
 
