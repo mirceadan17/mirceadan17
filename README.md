@@ -6,7 +6,7 @@
 <div align="center">
   <blockquote>
     I bridge the gap between robust web architectures and local LLM inference, <br />
-    building privacy-first AI solutions on <b>Linux</b>, <p> Windows</p> and <b>macOS</b>.
+    building privacy-first AI solutions on <b>Linux</b> and <b>macOS</b>.
   </blockquote>
 </div>
 
